@@ -5,7 +5,6 @@ github.com/prologic/golinks/defaults.go:44.2,44.12 1 2
 github.com/prologic/golinks/defaults.go:32.37,33.38 1 29
 github.com/prologic/golinks/defaults.go:33.38,39.47 5 14
 github.com/prologic/golinks/defaults.go:39.47,41.5 1 1
-github.com/prologic/golinks/rice-box.go:9.13,59.2 6 1
 github.com/prologic/golinks/server.go:29.30,34.2 2 10
 github.com/prologic/golinks/server.go:36.37,38.2 1 8
 github.com/prologic/golinks/server.go:40.37,42.2 1 0
